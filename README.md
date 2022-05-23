@@ -172,6 +172,7 @@ You will make users lose trust in many sites, despite there being less than a 1 
 - [addmefast.com](http://addmefast.com)
 - [addtoany.com](http://addtoany.com)
 - [adf.ly](http://adf.ly)
+- [https://hamtamovie.lol](https://hamtamovie.lol)
 - [adfoc.us](http://adfoc.us)
 - [ads-id.com](http://ads-id.com)
 - [adult-empire.com](http://adult-empire.com)
